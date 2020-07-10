@@ -80,3 +80,10 @@ And install the rest of the dependences
 bundle install
 ~~~
 
+
+## Local Development
+
+~~~
+bundle exec jekyll serve
+~~~
+
