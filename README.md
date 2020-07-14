@@ -1,5 +1,13 @@
 # Template for Jekyll Blogs
 
+This is a template for blogging using Jekyll and Github Pages.
+It has all the setup of Jekyll done, so you can get on and start doing the fun
+bit,  writing content.
+
+
+
+
+
 ## Prereqs
 
  - ruby
@@ -13,7 +21,7 @@ dang@dang-laptop ~/Github/IOC/JekyllTemplate$ gem -v
 dang@dang-laptop ~/Github/IOC/JekyllTemplate$ 
 ~~~
 
-## Installing everything fro Scratch
+## Installing everything from Scratch
 
 SEupt the Bundler
 
@@ -22,14 +30,14 @@ SEupt the Bundler
 
 
 ~~~
-dang@dang-laptop ~/Github/IOC/JekyllTemplate$ bundle init                         10 ↵  ✹ ✭master 
+dang@dang-laptop ~/Github/IOC/JekyllTemplate$ bundle init
 Writing new Gemfile to /home/dang/Github/IOC/JekyllTemplate/Gemfile
 ~~~
 
 Add Jekyll to it
 
 ~~~
-dang@dang-laptop ~/Github/IOC/JekyllTemplate$ bundle add jekyll --version 3.8.5         ✹ ✭master
+dang@dang-laptop ~/Github/IOC/JekyllTemplate$ bundle add jekyll --version 3.8.5
 ~~~
 
 And Create a new Jekyll site. 
