@@ -8,5 +8,7 @@ webinar on "Blogging with Github and Jekyll"
 
 ## Sections
 
+- [Indtroduction](introduction.md)
+- [Using the Template](gettingStarted.md)
 
-- [Local Jekyll Install](localJekyll.md)
+- [Local Jekyll Install](localInstall.md)
