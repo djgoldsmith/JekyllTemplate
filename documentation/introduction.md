@@ -76,3 +76,17 @@ But Github have also intergrated Jekyll, that allows is to write Blogs
 	It gives you an idea of the sort of things we can do.
 
 
+## Starting a Jekyll Blog.
+
+When it comes to starting a Jekyll blog we have 3 options
+ 
+  1. Install Jekyll, and create a new blog
+     - Install Ruby
+	 - Jump through some hoops to get Jekyll Installed
+     - Get working
+  1. Use a pre made template for the Blog
+  
+While the first approach is great, and gives you a lot of control
+over how you develop (and I would recommend it once you get used to
+things), sometimes getting these things working is more hassle than
+its worth.
