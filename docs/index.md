@@ -5,10 +5,3 @@ webinar on "Blogging with Github and Jekyll"
 
 > If you use the template feel Free to delete this in your version.
 > It has no impact on the blog itself. And is just used for reference.
-
-## Sections
-
-- [Indtroduction](introduction.md)
-- [Using the Template](gettingStarted.md)
-
-- [Local Jekyll Install](localInstall.md)

@@ -1,1 +1,23 @@
 site_name: Jekyll Template Documentation
+
+
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+
+
+repo_name: aa9863/reMarkAble
+repo_url: https://github.coventry.ac.uk/aa9863/reMarkAble
+
+
+
+nav:
+  - Home: index.md
+
