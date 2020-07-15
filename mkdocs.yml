@@ -20,4 +20,10 @@ repo_url: https://github.coventry.ac.uk/aa9863/reMarkAble
 
 nav:
   - Home: index.md
+  - Tutorial:
+    - Introduction: introduction.md
+    - Getting Started: gettingStarted.md
+
+  - Advanced:
+    - Working Locally: localInstall.md
 
