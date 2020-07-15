@@ -13,8 +13,8 @@ markdown_extensions:
   - codehilite
 
 
-repo_name: aa9863/reMarkAble
-repo_url: https://github.coventry.ac.uk/aa9863/reMarkAble
+repo_name: djgoldsmith/JekyllTemplate
+repo_url: https://github.com/JekyllTemplate
 
 
 
@@ -23,7 +23,7 @@ nav:
   - Tutorial:
     - Introduction: introduction.md
     - Getting Started: gettingStarted.md
-
+    - Adding Content: addingContent.md
   - Advanced:
     - Working Locally: localInstall.md
 
