@@ -31,7 +31,7 @@ Click the "Use this Template" button, and give your blog a name.
 
 	GitHub also allows us to have ONE "user" site. 
 	This will have the address ```http://<yourname>/github.io```
-	Chaging the repository name to <yourname>.github.io will activte this.
+	Changing the repository name to <yourname>.github.io will activate this.
 	
 	We can also have pages for Organisations, so if you have a group of related projects,
 	there is no excuse not to have documentation.
@@ -40,7 +40,7 @@ Click the "Use this Template" button, and give your blog a name.
 
 ### Enabling the Pages Feature
 
-We also need to enable the Pages Feature, to make the blog avaialable.
+We also need to enable the Pages Feature, to make the blog available.
 
 Under Settings, there should be a section on Github pages.
 In this case we can set the source to be the **master** branch
@@ -93,10 +93,27 @@ url: "https://djgoldsmith.github.io" # the base hostname & protocol for your sit
 
 ![Edit a File](images/EditConfig.png)
 
-### Commiting our changes
+We can also update the other site options here.  For example the site name and
+your various contact information.
+
+```yaml
+title: IOC Blogging Demo
+email: my-Email
+description: >- # this means to ignore newlines until "baseurl:"
+  This is a demo of creating blogs with Jekyll and Github pages.
+  We are using it in the Institute Of Coding July Webinars Series.
+baseurl: "/JekyllDemo" # the subpath of your site, e.g. /blog
+url: "https://djgoldsmith.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: born2briled
+github_username:  djgoldsmith
+```
+
+
+
+### Committing our changes
 
 Finally we need to **commit** our changes.  This will save them along
-with a commit message that can remind us (or anyone we are working with) what the change was aboue
+with a commit message that can remind us (or anyone we are working with) what the change was about
 
 ![Commit Message](images/CommitMsg.png)
 
